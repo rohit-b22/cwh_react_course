@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cwh_react_course/static/css/main.abd64e84.css",
+    "main.js": "/cwh_react_course/static/js/main.b15241b7.js",
+    "static/js/787.d9f8f8fa.chunk.js": "/cwh_react_course/static/js/787.d9f8f8fa.chunk.js",
+    "index.html": "/cwh_react_course/index.html",
+    "main.abd64e84.css.map": "/cwh_react_course/static/css/main.abd64e84.css.map",
+    "main.b15241b7.js.map": "/cwh_react_course/static/js/main.b15241b7.js.map",
+    "787.d9f8f8fa.chunk.js.map": "/cwh_react_course/static/js/787.d9f8f8fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.b15241b7.js"
+  ]
+}
